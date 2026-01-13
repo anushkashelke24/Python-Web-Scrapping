@@ -1,3 +1,3 @@
-#Python-Web-Scrapping
+**Python-Web-Scrapping**
 
 It contains some web scraping examples implemented using Python.
