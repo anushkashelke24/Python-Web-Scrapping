@@ -15,6 +15,6 @@ This project scrapes country information from a public website and saves it into
 - Pandas  
 
 ## 📂 Files
-- `countries_scraper.py` → Python script that scrapes data  
+- `Countries.py` → Python script that scrapes data  
 - `countries.csv` → Scraped dataset  
 
